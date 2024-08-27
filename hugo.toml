@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '/dev/log'
+theme = "hugo-theme-monochrome"
+enableEmoji = true
